@@ -1,5 +1,5 @@
 # Java Token Checker
-Discord token checker made in java<br>
+Discord token checker made in java, displays the informations in Hashmap so not very readable(for now)<br>
 Could also be used as a java library
 
 ```java
